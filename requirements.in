@@ -1,0 +1,8 @@
+jupyter
+python-dotenv
+pandas
+matplotlib
+pymysql
+SQLAlchemy
+scipy
+scikit-learn
