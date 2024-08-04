@@ -23,3 +23,18 @@ pip install pip-tools
 pip-compile ./requirements.in
 pip-sync
 ```
+
+## Git pre commit hook
+
+```bash
+#!/bin/sh
+jupyter nbconvert --clear-output --inplace notebooks/*.ipynb
+
+git add .
+```
+
+## MNB Oktatási füzet
+
+https://www.mnb.hu/kiadvanyok/korabbi-kiadvanyok/oktatasi-fuzetek
+
+https://www.mnb.hu/letoltes/mnb-oktatasi-fuzetek-2016-2szam-kotvenymatematika.pdf
