@@ -50,6 +50,5 @@ git add .
 
 ## MNB Oktatási füzet
 
-https://www.mnb.hu/kiadvanyok/korabbi-kiadvanyok/oktatasi-fuzetek
-
-https://www.mnb.hu/letoltes/mnb-oktatasi-fuzetek-2016-2szam-kotvenymatematika.pdf
+- https://www.mnb.hu/kiadvanyok/korabbi-kiadvanyok/oktatasi-fuzetek
+  - https://www.mnb.hu/letoltes/mnb-oktatasi-fuzetek-2016-2szam-kotvenymatematika.pdf
