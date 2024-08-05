@@ -5,7 +5,7 @@
 ### Kamatos kamat - FV
 - math  
   - `FV = PV ⋅(1+r)^n`
-  - FV = 100⋅(1+0,05)2 = 110,25	
+  - FV = 100⋅(1+0,05)^2 = 110,25	
     - 110,25 Ft
   - FV = 100⋅(1+0,05)^5
     - 127,63 Ft
@@ -39,3 +39,17 @@
     - 90,70 Ft
   - =PV(0,05;5;;-100;1)
     - 78,35 Ft
+
+
+### Nettó jelenérték és IRR
+
+- `'=NPV(rate;valu1;value2;...)`
+  - `=NPV(0,06;100;100;100;600)`
+- `'=IRR(array;[guess])`
+  - `=IRR({-742\100\100\100\600})`
+
+
+- horizontal array (hun local)
+  - `={-742\100\100\100\600}`
+- vertical array (hun local)
+  - `={1;2;3;4;5}`
