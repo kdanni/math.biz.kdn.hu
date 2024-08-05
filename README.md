@@ -4,6 +4,7 @@ Jupyter notebook project, replicating business mathematics charts.
 
 - Used examples
   - MNB (Hungarian National Bank) educational publications 
+  - Economics by Paul A. Samuelson, William D. Nordhaus
 
 ## Python setup
 
@@ -38,6 +39,14 @@ jupyter nbconvert --clear-output --inplace notebooks/*/*.ipynb
 
 git add .
 ```
+
+# Sources
+
+## Economics 19th Edition
+### by Paul A. Samuelson, William D. Nordhaus
+
+- https://www.amazon.com/Economics-Paul-Samuelson/dp/0073511293
+- https://mersz.hu/samuelson-nordhaus-kozgazdasagtan//
 
 ## MNB Oktatási füzet
 
