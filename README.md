@@ -1,5 +1,10 @@
 # math.biz.kdn.hu
 
+Jupyter notebook project, replicating business mathematics charts.
+
+- Used examples
+  - MNB (Hungarian National Bank) educational publications 
+
 ## Python setup
 
 ```bash
@@ -29,6 +34,7 @@ pip-sync
 ```bash
 #!/bin/sh
 jupyter nbconvert --clear-output --inplace notebooks/*.ipynb
+jupyter nbconvert --clear-output --inplace notebooks/*/*.ipynb
 
 git add .
 ```
